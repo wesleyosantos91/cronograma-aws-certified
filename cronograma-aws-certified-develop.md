@@ -1,6 +1,15 @@
 # cronograma-aws-certified-develop
 Cronograma de estudo para prova
 
+| Domínio                                                |  % do exame  |
+| ------------------------------------------------------ | -----------  |
+| Domínio 1: Implantação                                 | 22%          |
+| Domínio 2:  Segurança                                  | 26%          |
+| Domínio 3:  Desenvolvimento com os produtos da AWS     | 30%          |
+| Domínio 4:  Refatoração                                | 10%          |
+| Domínio 5:  Monitoramento e resolução de problemas     | 12%          |
+| TOTAL                                                  | 100%         |                                      
+
 ### Domínio 1: Implantação
 
 #### 1.1 Implantar código escrito na AWS usando pipelines, processos e padrões de CI/CD existentes.
