@@ -1,6 +1,15 @@
 # cronograma-aws-certified-solutions-architect
 Cronograma de estudo para prova
 
+
+| Domínio                                                |  % do exame  |
+| ------------------------------------------------------ | -----------  |
+| Domínio 1: Design de arquiteturas resilientes          | 30%          |
+| Domínio 2: Design de arquiteturas de alta performance  | 28%          |
+| Domínio 3: Design de aplicações e arquiteturas seguras | 24%          |
+| Domínio 4: Design de arquiteturas econômicas           | 18%          |
+| TOTAL                                                  | 100%         |   
+
 ### Observação
 
 - S3:
