@@ -1,4 +1,4 @@
-# cronograma-aws-certified-solutions-architect
+# cronograma-aws-certified-solutions-architect-associate
 Cronograma de estudo para prova
 
 
